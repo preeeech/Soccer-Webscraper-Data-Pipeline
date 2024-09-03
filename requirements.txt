@@ -1,0 +1,6 @@
+pandas
+beautifulsoup4
+pydantic
+selenium
+psycopg2-binary
+supabase
